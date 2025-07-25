@@ -1,0 +1,12 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-base text-text-main font-outfit;
+}
+
+button {
+  @apply rounded-md font-semibold;
+}
