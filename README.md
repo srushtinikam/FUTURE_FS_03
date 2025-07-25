@@ -36,4 +36,5 @@ An AI-enhanced, fully responsive Nike-themed eCommerce web app built with **Next
 ```bash
 git clone https://github.com/srushtinikam/FUTURE_FS_03.git
 cd FUTURE_FS_03
-
+npm install
+npm run dev
