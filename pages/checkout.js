@@ -5,7 +5,7 @@ import { collection, addDoc, serverTimestamp } from "firebase/firestore";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import Lottie from "lottie-react";
-import successAnimation from "@/animations/success.json";
+import successAnimation from "@/components/animations/success.json";
 import toast from "react-hot-toast";
 
 export default function CheckoutPage() {
